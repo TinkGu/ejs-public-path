@@ -1,0 +1,21 @@
+{
+  "name": "ejs-public-path",
+  "version": "1.0.0",
+  "description": "set public path prefix, generate script tags",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TinkGu/ejs-public-path.git"
+  },
+  "keywords": [
+    "ejs",
+    "public",
+    "path"
+  ],
+  "author": "TinkGu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TinkGu/ejs-public-path/issues"
+  },
+  "homepage": "https://github.com/TinkGu/ejs-public-path#readme"
+}
